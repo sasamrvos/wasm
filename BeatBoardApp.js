@@ -11883,9 +11883,9 @@ var ___cxa_can_catch = createExportWrapper("__cxa_can_catch");
 
 var ___cxa_is_pointer_type = createExportWrapper("__cxa_is_pointer_type");
 
-var ___start_em_js = Module["___start_em_js"] = 15326700;
+var ___start_em_js = Module["___start_em_js"] = 15326940;
 
-var ___stop_em_js = Module["___stop_em_js"] = 15328628;
+var ___stop_em_js = Module["___stop_em_js"] = 15328868;
 
 function invoke_viijii(index, a1, a2, a3, a4, a5) {
  var sp = stackSave();
