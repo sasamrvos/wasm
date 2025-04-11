@@ -714,7 +714,7 @@ function dbg(...args) {
 }
 
 var ASM_CONSTS = {
- 21333524: $0 => {
+ 21337684: $0 => {
   console.log("**** WebAssembly is ready!");
   window._module = Module;
   console.log("**** A!");
@@ -11880,9 +11880,9 @@ var ___cxa_can_catch = createExportWrapper("__cxa_can_catch");
 
 var ___cxa_is_pointer_type = createExportWrapper("__cxa_is_pointer_type");
 
-var ___start_em_js = Module["___start_em_js"] = 21333824;
+var ___start_em_js = Module["___start_em_js"] = 21337984;
 
-var ___stop_em_js = Module["___stop_em_js"] = 21334914;
+var ___stop_em_js = Module["___stop_em_js"] = 21339074;
 
 function invoke_viijii(index, a1, a2, a3, a4, a5) {
  var sp = stackSave();
